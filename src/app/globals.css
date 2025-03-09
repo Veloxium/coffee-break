@@ -128,3 +128,28 @@
     display: none;
   }
 }
+
+@utility z-scrollbar {
+  &::-webkit-scrollbar {
+    width: 0.5rem;
+    height: 0.5rem;
+  }
+  &::-webkit-scrollbar-track {
+    background: var(--color-white);
+    
+  }
+  &::-webkit-scrollbar-thumb {
+    background: var(--color-zprimary);
+    border-radius: 0.25rem;
+  }
+}
+
+@theme {
+  --color-zprimary: #379777;
+  --color-zprimary-100: #EBF5F2;
+  --color-zbase: #f5f7f8;
+}
+
+@utility btn {
+  @apply text-zprimary bg-white border-2 border-white rounded-md ease-in-out duration-150 cursor-pointer hover:border-zprimary;
+}

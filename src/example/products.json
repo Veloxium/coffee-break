@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "name": "Americano",
+        "price": 18000,
+        "category": "Coffee",
+        "image": "https://i.pinimg.com/736x/0e/63/9a/0e639a2520663ebda3d28630fad240e7.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Green Tea",
+        "price": 15000,
+        "category": "Tea",
+        "image": "https://i.pinimg.com/736x/40/bc/d2/40bcd219396eda845cc697e9c4761a39.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Orange Juice",
+        "price": 12000,
+        "category": "Juice",
+        "image": "https://i.pinimg.com/736x/9a/6d/52/9a6d527b3b4433885a337bd0977fc5f6.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cola",
+        "price": 10000,
+        "category": "Soda",
+        "image": "https://i.pinimg.com/736x/cb/e5/94/cbe594830fbea00ef8ffb4c59fc46954.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Sandwich",
+        "price": 25000,
+        "category": "Food",
+        "image": "https://i.pinimg.com/736x/e2/1f/cd/e21fcd7f131c3f4a9c26c5eaa1756dc1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Chips",
+        "price": 8000,
+        "category": "Snack",
+        "image": "https://i.pinimg.com/736x/35/7d/6d/357d6dbb6eb472d2f0d56acacb796100.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cake",
+        "price": 20000,
+        "category": "Dessert",
+        "image": "https://i.pinimg.com/736x/07/13/10/071310ba8a86e80deb421c5dacb8aa07.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Extra Cheese",
+        "price": 5000,
+        "category": "Extra",
+        "image": "https://i.pinimg.com/736x/01/4a/22/014a22f86955380f1a110b412db8eb87.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Latte",
+        "price": 22000,
+        "category": "Coffee",
+        "image": "https://i.pinimg.com/736x/12/78/0a/12780a367c42bbef49e076ac5f27e9d1.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Black Tea",
+        "price": 14000,
+        "category": "Tea",
+        "image": "https://i.pinimg.com/736x/a9/5d/a6/a95da6bbccbb8d81b7c00069255be1c0.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Apple Juice",
+        "price": 13000,
+        "category": "Juice",
+        "image": "https://i.pinimg.com/736x/3b/bc/b4/3bbcb4cfa150c72834b50abaa619e316.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Lemonade",
+        "price": 11000,
+        "category": "Soda",
+        "image": "https://i.pinimg.com/736x/ef/26/1b/ef261bc9d15cce5bb8f0d36eb01b5fa4.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Burger",
+        "price": 30000,
+        "category": "Food",
+        "image": "https://i.pinimg.com/736x/27/ab/5e/27ab5edd0885b823023a2b5ba47a1f04.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Pretzels",
+        "price": 7000,
+        "category": "Snack",
+        "image": "https://i.pinimg.com/736x/30/ad/35/30ad356313b57ce2cbe89eba52b53532.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Brownie",
+        "price": 18000,
+        "category": "Dessert",
+        "image": "https://i.pinimg.com/736x/81/f5/6b/81f56b4e1ec0b3d0d129e03be8470b33.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Extra Bacon",
+        "price": 6000,
+        "category": "Extra",
+        "image": "https://i.pinimg.com/736x/a6/cc/4b/a6cc4b3bb250ee43c70a7b604f28cb46.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Espresso",
+        "price": 20000,
+        "category": "Coffee",
+        "image": "https://i.pinimg.com/736x/8a/50/9e/8a509e80a255b25b54774a4437debf0e.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Herbal Tea",
+        "price": 16000,
+        "category": "Tea",
+        "image": "https://i.pinimg.com/736x/14/d5/91/14d591900b6e235875491af455125bd0.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Grape Juice",
+        "price": 14000,
+        "category": "Juice",
+        "image": "https://i.pinimg.com/736x/03/bd/ea/03bdea16f097d16efc7c00001e2e5b7a.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Root Beer",
+        "price": 12000,
+        "category": "Soda",
+        "image": "https://i.pinimg.com/736x/88/9f/f8/889ff82b6ba67fa66ef384e4c13c91e1.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Pizza",
+        "price": 35000,
+        "category": "Food",
+        "image": "https://i.pinimg.com/736x/4d/a7/3f/4da73f313deef52c2373795a970b4082.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Popcorn",
+        "price": 9000,
+        "category": "Snack",
+        "image": "https://i.pinimg.com/736x/5a/be/3e/5abe3e25419686091158fb685d1c6473.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Ice Cream",
+        "price": 15000,
+        "category": "Dessert",
+        "image": "https://i.pinimg.com/736x/3a/cb/bc/3acbbc77c7d2b43c70f1078b4fe0f5aa.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Extra Sauce",
+        "price": 4000,
+        "category": "Extra",
+        "image": "https://i.pinimg.com/736x/2a/f3/a1/2af3a198443b92c68ab8d635e4dc7669.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Cappuccino",
+        "price": 23000,
+        "category": "Coffee",
+        "image": "https://i.pinimg.com/736x/31/a4/3e/31a43e6724513a5b4220dfc5843e930d.jpg"
+    }
+]
